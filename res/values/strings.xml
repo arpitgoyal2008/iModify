@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Watermarking</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="put_an_image_watermark">Put an Image Watermark</string>
+    <string name="a_customoized_message_in_the_background">A Customoized Message in the background</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="upload_a_pic">Upload a Pic</string>
+    <string name="title_activity_date_picker">Choose Date</string>
+    <string name="title_activity_time_picker">Choose Time</string>
+    <string name="title_activity_name_picker">Pick a Name</string>
+    <string name="today_date">Use today date</string>
+    <string name="set_date">Set Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="use_current_time">Use Current Time</string>
+    <string name="set_time">Set Time</string>
+    <string name="editText_hint">Write text to be watermarked</string>
+    <string name="random">Randomly Insert a Text</string>
+    <string name="set">Set</string>
+    <string name="title_activity_show_image">Watermark</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="original">Original</string>
+    <string name="modified">Modified</string>
+    <string name="title_activity_zoom_image">MainActivity</string>
+
+</resources>

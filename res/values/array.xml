@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="random_name_list">
+        <item>
+            Awesome
+        </item>
+        <item > Cool Guy</item>
+        <item>Chilled Out</item>
+        <item >Champion</item>
+        <item >YOYO</item>
+        <item >Beautiful</item>
+        
+    </string-array>
+    
+</resources>
